@@ -1,0 +1,114 @@
+header{
+	background-color: #FCCE09;
+	color:#fff;
+
+}
+ 
+.encabezado{
+	width: 80%;
+	margin:0 auto;/*para centrar*/
+	padding: 2% 0 0;
+}
+
+nav ul{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+	color:#fff;
+}
+nav ul a li{
+	display: inline-block;
+	margin: 0;
+	padding: 15px 15px;
+}
+
+nav ul li:hover{
+	background-color: #f00;
+	color:#fff;
+	padding: 15px 15px;
+}
+
+.encabezado button{
+	width: 110px;
+	height: 50px;
+	background-color: #FCBA42;
+	border:none;
+	color:#fff;
+	margin-top: 20px;
+}
+
+.encabezado button:hover{
+	color:#fff;
+	background-color: #f00;
+}
+
+.encabezado h3{
+	margin-right: 3%;
+}
+
+.titulo {
+	padding-top: 250px;
+	padding-bottom: 300px;
+}
+
+.imagen{
+		background-color: #fff;
+}
+.imagen img{
+	width: 70%;
+	height: 70%;
+	padding-top:4%;
+	padding-bottom: 2%; 
+}
+ .fondo{
+	width: 20px;
+	height: 10px;
+}
+
+#contenido  a{
+	display: inline-block;
+	text-decoration: none;
+	color: #fff;
+	background-color: #FDB845;
+	font-size: 1.2rem;
+	margin: 5px 0 15px;
+}
+
+.fondocolunm{
+	margin: 10px 0 0;
+}
+
+.gris{
+	background-color: #EAEBE8;
+}
+
+#contenido p{
+	margin:0 3%;
+}
+
+.blanco{
+	color: gray;
+}
+.fondocolum span{
+	margin: 0 5px;
+}
+
+footer {
+	background-color: #262624;
+	
+}
+
+#pie{
+	background-color: #262624;
+}
+
+.ultimo{
+	width: 90%;
+	padding:20px 0;
+	color:#fff;
+	font-size: 1.2rem;
+}
+.ultimo a:hover{
+	text-decoration: underline;
+}
