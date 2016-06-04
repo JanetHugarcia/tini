@@ -28,6 +28,9 @@ nav ul li:hover{
 	color:#fff;
 	padding: 15px 15px;
 }
+.encabezado:nth-child(2){
+	padding: 2% 0 3%;
+}
 
 .encabezado button{
 	width: 110px;
@@ -83,13 +86,12 @@ nav ul li:hover{
 	background-color: #EAEBE8;
 }
 
-#contenido p{
-	margin:0 3%;
-}
 
 .blanco{
 	color: gray;
+	padding:5%;
 }
+
 .fondocolum span{
 	margin: 0 5px;
 }
